@@ -1,4 +1,6 @@
 # material-ui-password-field
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/TeamWertarbyte/material-ui-password-field.svg)](https://greenkeeper.io/)
 This project provides a [password field][passwordspec] for [Material-UI][mui].
 
 ![Demo](demo.gif)
